@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Com.test.first</string>
+	<string name="textview1">提示名字</string>
+	<string name="buttonText1">发送提示</string>
+	<string name="animationButton">animation</string>
+	<string name="jsonButton">http json</string>
+	<string name="notificationButton">Notification</string>
+</resources>
